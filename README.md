@@ -1,1 +1,1 @@
-# Bioinformatics-Project-Sem4
+### Chaos Game Representation for Sequence alignment
