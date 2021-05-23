@@ -1,1 +1,7 @@
-### Chaos Game Representation for Sequence alignment
+## About
+
+## Pre-requisites 
+
+## References
+
+## Additional Note
