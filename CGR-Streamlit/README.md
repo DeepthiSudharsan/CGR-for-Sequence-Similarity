@@ -49,7 +49,8 @@ For Human, Rat and Gorilla sequences for K = 4 if we try for both methods (FCGR 
 ![image](https://user-images.githubusercontent.com/59824729/119360789-9db07380-bcc8-11eb-92fd-6e4222ebafbe.png)
 ![image](https://user-images.githubusercontent.com/59824729/119313632-68d4fa00-bc91-11eb-9e6f-2f27afa0e274.png)
 ![image](https://user-images.githubusercontent.com/59824729/119313656-6ffc0800-bc91-11eb-97e2-b3484a94200d.png)
-![image](https://user-images.githubusercontent.com/59824729/119313677-768a7f80-bc91-11eb-9815-4f928e3a1d92.png)
-![image](https://user-images.githubusercontent.com/59824729/119313749-873af580-bc91-11eb-9e09-43b1e84c79cc.png)
-![image](https://user-images.githubusercontent.com/59824729/119313794-9457e480-bc91-11eb-9b38-3bd125610a8f.png)
+![image](https://user-images.githubusercontent.com/59824729/119361996-e157ad00-bcc9-11eb-92da-d43636d38c4f.png)
+![image](https://user-images.githubusercontent.com/59824729/119361807-afdee180-bcc9-11eb-883e-edb30447cd95.png)
+![image](https://user-images.githubusercontent.com/59824729/119361321-27f8d780-bcc9-11eb-833a-0f2bb3ff0670.png)
+
 
