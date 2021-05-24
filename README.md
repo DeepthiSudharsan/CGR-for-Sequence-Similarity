@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/59824729/119332381-1f42da00-bca6-11eb-8b7f-ab4fed1c3947.png)
 
-While plotting, the y-axis is inverted to follow the usual convention.
+###### Note: While plotting, the y-axis is inverted to follow the usual convention.
 
 ### Frequency CGR
 
