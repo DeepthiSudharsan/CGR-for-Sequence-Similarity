@@ -19,3 +19,5 @@ streamlit run app.py
 
 ## Excerpts from the app
 
+![image](https://user-images.githubusercontent.com/59824729/119312271-c8320a80-bc8f-11eb-9cf8-da4bc2d7da97.png)
+![image](https://user-images.githubusercontent.com/59824729/119312359-e7309c80-bc8f-11eb-9727-80a9971132fb.png)
