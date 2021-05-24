@@ -46,7 +46,7 @@ You can then give the Kmer length of your choice (default is set to K = 4) and t
 For Human, Rat and Gorilla sequences for K = 4 if we try for both methods (FCGR and CCGR) the output is : 
 
 ![image](https://user-images.githubusercontent.com/59824729/119313586-578bed80-bc91-11eb-99b4-d92b44f03548.png)
-![image](https://user-images.githubusercontent.com/59824729/119313619-607cbf00-bc91-11eb-8dbf-abbbe14160b4.png)
+![image](https://user-images.githubusercontent.com/59824729/119360789-9db07380-bcc8-11eb-92fd-6e4222ebafbe.png)
 ![image](https://user-images.githubusercontent.com/59824729/119313632-68d4fa00-bc91-11eb-9e6f-2f27afa0e274.png)
 ![image](https://user-images.githubusercontent.com/59824729/119313656-6ffc0800-bc91-11eb-97e2-b3484a94200d.png)
 ![image](https://user-images.githubusercontent.com/59824729/119313677-768a7f80-bc91-11eb-9815-4f928e3a1d92.png)
