@@ -2,9 +2,19 @@
 
 #### There are two main parts to the project - Analysis of sequences using Frequency CGR (FCGR) and Coordinate CGR.
 
-## About
+## Methods implemented
 
-## Pre-requisites and Data
+
+
+### Frequency CGR
+
+### Coordinate CGR
+
+Annotated code of our project has been provided.  We also used streamlit open-source app framework for creating a custom web-app for our project. A folder with the source code for the app, snips of the expected output and directions for running it have also been provided. 
+
+## Data
+
+The data has been gathered from NCBI (https://www.ncbi.nlm.nih.gov/) and GISAID (https://www.gisaid.org/). We tried for two categories of data - hCov-19 and BetaCov-19 sequences (DNA_SEQ folder) and also for human and various animal genome sequences (ANIMAL_GENOME folder). 
 
 ## References
 
