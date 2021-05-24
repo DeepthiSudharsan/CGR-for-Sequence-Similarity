@@ -33,7 +33,7 @@ or select multiple files from existing files
 
 ![image](https://user-images.githubusercontent.com/59824729/119360284-1531d300-bcc8-11eb-8928-cd8d6ae78172.png)
 
-![image](https://user-images.githubusercontent.com/59824729/119360330-2084fe80-bcc8-11eb-85ab-f9a1969c400c.png)
+![image](https://user-images.githubusercontent.com/59824729/119360456-427e8100-bcc8-11eb-9417-a3736666d862.png)
 
 If you select the option to choose multiple files from existing files, an option to choose between the ANIMAL_GENOME folder and DNA_SEQ folder comes up.
 
