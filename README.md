@@ -10,10 +10,42 @@
 
 ### Frequency CGR
 
+In the frequency CGR method, we divide a grid into a 2D array of size (√(4<sup>k</sup> ), √(4<sup>k</sup>))
+![image](https://user-images.githubusercontent.com/59824729/119365199-52e52a80-bccd-11eb-9c6b-bd8aafe2287b.png)
 
+##### For each nucleotide in a kmer, the image is subdivided into 4 quadrants:
+- A in the top left
+- T in the top right 
+- C in the bottom left 
+- G in the bottom right
+
+Each quadrant is split according to the same principle for the next nucleotide in the kmer, recursively. 
+
+![image](https://user-images.githubusercontent.com/59824729/119365969-1cf47600-bcce-11eb-991c-2c5c49650fbe.png)
+
+#### CGR Probabiltiy Distance
+
+Calculating Euclidean distance between 2 chaos probability matrices
+
+![image](https://user-images.githubusercontent.com/59824729/119366485-a5731680-bcce-11eb-805f-b50bb4960299.png)
 
 ### Coordinate CGR
 
+In this method we use the coordinates calculated using the following steps to analyse the sequences
+
+* Start from the center of the grid
+
+* 1st coordinate - plotted halfway between the center of the square and the vertex representing this nucleotide (A)
+
+* Successive coordinates - plotted halfway between the previous point and the vertex representing the current nucleotide
+
+![image](https://user-images.githubusercontent.com/59824729/119368475-b02eab00-bcd0-11eb-9e4e-cdf48bb59db6.png)
+
+#### CGR Coordinate Distance
+
+Calculating Euclidean distance between 2 chaos vectors obtained
+
+![image](https://user-images.githubusercontent.com/59824729/119368812-187d8c80-bcd1-11eb-91d9-663356991f2a.png)
 
 Annotated code of our project has been provided.  We also used streamlit open-source app framework for creating a custom web-app for our project. A folder with the source code for the app, snips of the expected output and directions for running it have also been provided. 
 
@@ -21,9 +53,15 @@ Annotated code of our project has been provided.  We also used streamlit open-so
 
 The data has been gathered from NCBI (https://www.ncbi.nlm.nih.gov/) and GISAID (https://www.gisaid.org/). We tried for two categories of data - hCov-19 and BetaCov-19 sequences (DNA_SEQ folder) and also for human and various animal genome sequences (ANIMAL_GENOME folder). 
 
-## Inferences
+## Observations
 
+* Frequency Chaos Game Representation
 
+![image](https://user-images.githubusercontent.com/59824729/119367969-1f57cf80-bcd0-11eb-83d1-92343092ae6c.png)
+
+* Coordinate Chaos Game Representation
+
+![image](https://user-images.githubusercontent.com/59824729/119368065-3bf40780-bcd0-11eb-80e8-9d3e580b16c8.png)
 
 ## References
 
