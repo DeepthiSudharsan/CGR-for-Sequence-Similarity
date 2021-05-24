@@ -76,7 +76,6 @@ class CGR_SeqAlignment:
                     posy += maxy // 2
                 maxx = maxx // 2
                 maxy = maxy//2
-             #   print(char," posx ",posx," posy ",posy)
             chaos[posy-4][posx-4] = value
             maxx = array_size
             maxy = array_size
@@ -92,7 +91,7 @@ def CGR_plot(data,k):
     chaos_mat = cgr.chaos_game_representation(cgr_prob, k)
     str1 = 'Chaos game representation for', k ,'-mers'
     pylab.title(str1)
-    pylab.imshow(chaos_mat, interpolation='nearest',cmap=cm.Reds)
+    pylab.imshow(chaos_mat, interpolation='nearest',cmap=cm.PuBu)
     plt.gca().invert_yaxis()
     pylab.show()
     return chaos_mat,plt
@@ -121,7 +120,7 @@ def FCGR(seq):
     st.dataframe(df_dist_cgr)
 
     pylab.title("CGR_probality_distance")
-    pylab.imshow(dist_cgr, interpolation='nearest',cmap =cm.Reds)
+    pylab.imshow(dist_cgr, interpolation='nearest',cmap =cm.PuBu)
     plt.gca().invert_yaxis()
     plt.colorbar()
     st.pyplot(plt)
@@ -150,13 +149,10 @@ def CCGR(seq):
     st.dataframe(df_dist_cgr_coord)
     plt.figure()
     pylab.title("CGR_coordinate_distance")
-    pylab.imshow(dist_cgr_coord, interpolation='nearest',cmap =cm.Reds)
+    pylab.imshow(dist_cgr_coord, interpolation='nearest',cmap =cm.PuBu)
     plt.gca().invert_yaxis()
     plt.colorbar()
     st.pyplot(plt)
-    
-
-
 
 x = {'A': 0,'C': 0,'G':1,'T':1}
 y = { 'A': 0,'C': 1,'G':1,'T':0}
@@ -218,14 +214,14 @@ elif option == "Upload the Sequences (.FASTA format)":
 		f_names.append("Sequence 2")
 
 elif option == "Select from existing files":
-	f = glob.glob("C:\\Users\\Lakshaya Karthikeyan\\Documents\\University\\SEM 4\\IBS - 4\\Project\\ANIMAL_GENOME\\*.fasta")
+	f = glob.glob("C:\\Users\\deept\\Desktop\\Sem 4\\Sem4 Projects\\IBS4 Project\\ANIMAL_GENOME\\*.fasta")
 
 	for i in range(0,len(f)):
 	    ft = f[i]
 	    f_names.append(ft[ft.rindex("\\")+1:len(ft)])
 	fileNames=st.multiselect('Multiselect', f_names)
 	for i in range(0,len(fileNames)):
-		seq.append(readf("C:\\Users\\Lakshaya Karthikeyan\\Documents\\University\\SEM 4\\IBS - 4\\Project\\ANIMAL_GENOME\\"+fileNames[i]))
+		seq.append(readf("C:\\Users\\deept\\Desktop\\Sem 4\\Sem4 Projects\\IBS4 Project\\ANIMAL_GENOME\\"+fileNames[i]))
 	
 	f_names = fileNames
 	st.text(fileNames)
