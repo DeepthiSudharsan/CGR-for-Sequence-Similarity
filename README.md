@@ -21,6 +21,10 @@ Annotated code of our project has been provided.  We also used streamlit open-so
 
 The data has been gathered from NCBI (https://www.ncbi.nlm.nih.gov/) and GISAID (https://www.gisaid.org/). We tried for two categories of data - hCov-19 and BetaCov-19 sequences (DNA_SEQ folder) and also for human and various animal genome sequences (ANIMAL_GENOME folder). 
 
+## Inferences
+
+
+
 ## References
 
 1. https://towardsdatascience.com/chaos-game-representation-of-a-genetic-sequence-4681f1a67e14
