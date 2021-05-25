@@ -46,12 +46,13 @@ You can then give the Kmer length of your choice (default is set to K = 4) and t
 For Human, Rat and Gorilla sequences for K = 4 if we try for both methods (FCGR and CCGR) the output is : 
 
 ![image](https://user-images.githubusercontent.com/59824729/119438838-bc515180-bd3e-11eb-8436-0f013ba17806.png)
-![image](https://user-images.githubusercontent.com/59824729/119438905-de4ad400-bd3e-11eb-828f-aa8aec25e4d9.png)
-![image](https://user-images.githubusercontent.com/59824729/119438928-e73ba580-bd3e-11eb-9bb2-02865461dce9.png)
-![image](https://user-images.githubusercontent.com/59824729/119438952-ef93e080-bd3e-11eb-80f4-adbe87a18e2b.png)
-![image](https://user-images.githubusercontent.com/59824729/119438975-fb7fa280-bd3e-11eb-912e-05f138e4791a.png)
-![image](https://user-images.githubusercontent.com/59824729/119438991-05a1a100-bd3f-11eb-9936-1fc1d42deb4a.png)
-![image](https://user-images.githubusercontent.com/59824729/119439011-0fc39f80-bd3f-11eb-8f3c-2427e24389f6.png)
+![image](https://user-images.githubusercontent.com/59824729/119440240-8e214100-bd41-11eb-8f2b-391a222e5581.png)
+![image](https://user-images.githubusercontent.com/59824729/119440080-469ab500-bd41-11eb-8935-34e44174e8cb.png)
+![image](https://user-images.githubusercontent.com/59824729/119440098-50bcb380-bd41-11eb-98f0-1081ae439760.png)
+![image](https://user-images.githubusercontent.com/59824729/119440119-5c0fdf00-bd41-11eb-8787-53fa26dd4e79.png)
+![image](https://user-images.githubusercontent.com/59824729/119440144-63cf8380-bd41-11eb-9919-3861ab5d0a48.png)
+![image](https://user-images.githubusercontent.com/59824729/119440167-6b8f2800-bd41-11eb-8b08-a02fe5a195dc.png)
+![image](https://user-images.githubusercontent.com/59824729/119440181-73e76300-bd41-11eb-98e9-03f0afb4a229.png)
 
 
 
