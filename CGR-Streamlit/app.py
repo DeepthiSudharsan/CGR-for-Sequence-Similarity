@@ -80,8 +80,8 @@ class CGR_SeqAlignment:
             chaos[posy-4][posx-4] = value
             maxx = array_size
             maxy = array_size
-            posx = 4
-            posy = 4
+            posx = 0
+            posy = 0
 
         return chaos
 
