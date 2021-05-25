@@ -51,7 +51,7 @@ Annotated code of our project has been provided.  We also used streamlit open-so
 
 ## Data
 
-The data has been gathered from NCBI (https://www.ncbi.nlm.nih.gov/) and GISAID (https://www.gisaid.org/). We tried for two categories of data - hCov-19 and BetaCov-19 sequences (DNA_SEQ folder) and also for human and various animal genome sequences (ANIMAL_GENOME folder). 
+The data has been gathered from NCBI (https://www.ncbi.nlm.nih.gov/) and GISAID (https://www.gisaid.org/). We tried for two categories of data - hCov-19 and BetaCov-19 sequences (DNA_SEQUENCES folder) and also for human and various animal genome sequences (ANIMAL_GENOME folder). 
 
 ## Observations
 
