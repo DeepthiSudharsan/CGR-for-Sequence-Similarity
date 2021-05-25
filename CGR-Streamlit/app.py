@@ -77,7 +77,7 @@ class CGR_SeqAlignment:
                     posy += maxy // 2
                 maxx = maxx // 2
                 maxy = maxy//2
-            chaos[posy-4][posx-4] = value
+            chaos[posy][posx] = value
             maxx = array_size
             maxy = array_size
             posx = 0
