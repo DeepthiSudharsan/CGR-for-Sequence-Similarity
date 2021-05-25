@@ -57,11 +57,11 @@ The data has been gathered from NCBI (https://www.ncbi.nlm.nih.gov/) and GISAID 
 
 * Frequency Chaos Game Representation
 
-![image](https://user-images.githubusercontent.com/59824729/119373037-9e9bd200-bcd5-11eb-9a27-9435f53d24af.png)
+![image](https://user-images.githubusercontent.com/59824729/119442272-24a33180-bd45-11eb-9aa3-a2286c4e8c9c.png)
 
 * Coordinate Chaos Game Representation
 
-![image](https://user-images.githubusercontent.com/59824729/119368065-3bf40780-bcd0-11eb-80e8-9d3e580b16c8.png)
+![image](https://user-images.githubusercontent.com/59824729/119442281-2a007c00-bd45-11eb-8680-79b3438ad062.png)
 
 ## References
 
