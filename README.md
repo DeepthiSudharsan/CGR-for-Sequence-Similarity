@@ -15,9 +15,9 @@ In the frequency CGR method, we divide a grid into a 2D array of size (√(4<sup
 
 ##### For each nucleotide in a kmer, the image is subdivided into 4 quadrants:
 - A in the top left
-- T in the top right 
+- G in the top right 
 - C in the bottom left 
-- G in the bottom right
+- T in the bottom right
 
 Each quadrant is split according to the same principle for the next nucleotide in the kmer, recursively. 
 
