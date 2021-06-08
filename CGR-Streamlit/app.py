@@ -22,7 +22,6 @@ st.sidebar.markdown("Deepthi Sudharsan")
 st.sidebar.markdown("Isha Indhu S")
 st.sidebar.markdown("Lakshaya Karthikeyan")
 st.sidebar.markdown("Roshan Tushar S")
-st.sidebar.subheader("IBS4 - Team 15")
 
 f_names = []
 seq=[]
